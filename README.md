@@ -1,4 +1,4 @@
-# PAC team
+# Tabibuddy by Team PAC
 
 ##CITATIONS
 All images have been sourced from personal owners or from copyright-free websites (pexels.com).
@@ -25,3 +25,10 @@ npm run startDemon
 
 #### For filling location information automatically, use the script:
 npm run fillLocation
+
+## Contributors:
+Alisa Ono 
+Christina Lee
+Purnawirman Huang
+
+Made with <3 for 6.148 (2017 IAP)
