@@ -27,8 +27,12 @@ npm run startDemon
 npm run fillLocation
 
 ## Contributors:
+
 Alisa Ono 
+
 Christina Lee
+
 Purnawirman Huang
 
-Made with <3 for 6.148 (2017 IAP)
+
+Created for 6.148 (2017 IAP)
