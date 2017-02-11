@@ -9,8 +9,11 @@ Citation for the buddy icon on the homepage:
 	-Icon made by http://www.freepik.com from http://www.flaticon.com is licensed by Creative Commons BY 3.0
 
 
-
 ## Team members note:
+
+#### PLEASE NOTE:
+API and client keys for Cloudinary and Facebook oauth are depricated. Please provide your own.
+
 #### For first time cloning, do the following:
 1. npm install // install all dependecies
 2. remember to setup mongodb, make a directory ./data, then run mongod -dbpath ./data
